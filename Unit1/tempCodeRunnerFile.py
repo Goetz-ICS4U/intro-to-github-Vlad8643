@@ -1,1 +1,0 @@
-     print(f"{n2} is bigger that {n1}")
