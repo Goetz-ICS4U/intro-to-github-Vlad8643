@@ -13,7 +13,7 @@ date: 04.07.2026
 # s.isalnum() – Returns True if all characters are letters or numbers, False otherwise.
 # s.isspace() – Returns True if all characters are whitespace, False otherwise.
 
-
+#123
 
 
 def example_1():
